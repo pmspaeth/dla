@@ -5,7 +5,7 @@ http://youtu.be/LQ-0jk5str0 , https://youtu.be/a-rxAi5sWyo, https://youtu.be/-Jw
 
 This is an Eclipse (Luna) project - you should be able to import it (use a Java8 JDK). You can "Run As Java Application" any of
     
-Main: Create the DLA fractal (drawn while creating it on a frame). When done, save as a CSV file
+Main: Create the DLA fractal (drawn while creating it on a frame). When done, saves as a CSV file
 
 Paint: Paint again from a CSV file
 
