@@ -1,7 +1,7 @@
 Diffusion Limited Aggregation, a two dimensional fractal, generator
 
 It is targeted towards musics composition. A (semi-manual) outcome of this DLA generator in form of a musics piece may be seen here:
-https://www.youtube.com/watch?v=FszPvY44K9U
+http://youtu.be/IT-oh2txgmU
 
 This is an Eclipse (Luna) project - you should be able to import it (use a Java8 JDK). You can "Run As Java Application" any of
     
