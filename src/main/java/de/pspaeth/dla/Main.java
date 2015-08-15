@@ -112,7 +112,7 @@ public class Main extends JPanel implements ActionListener {
 	}
 
 	/**
-	 * Calculation is done in background. When the calculation is done, a CSV output is written
+	 * Calculation is done in background. When the calculation has finished, a CSV output is written
 	 */
 	private void calculationThread() {
 		Thread calcThread = new Thread(new Runnable() {
